@@ -8,3 +8,9 @@ The company wants to know the following things about the prospective properties:
 <li> How well those variables describe the price of a house.</li></ul>
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
+### Business Goal 
+
+ 
+
+You are required to model the price of houses with the available independent variables. This model will then be used by the management to understand how exactly the prices vary with the variables. They can accordingly manipulate the strategy of the firm and concentrate on areas that will yield high returns. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+
